@@ -51,7 +51,6 @@ brew upgrade
 
 apps=(
     homebrew/cask/1password
-    homebrew/cask/alfred
     homebrew/cask/google-chrome
     homebrew/cask/spotify
     homebrew/cask/ultimaker-cura
@@ -59,6 +58,14 @@ apps=(
     homebrew/cask/visual-studio-code
     homebrew/cask/vlc
     homebrew/cask/zoomus
+    homebrew/cask/aerial
+    homebrew/cask/discord
+    homebrew/cask/github
+    homebrew/cask/itsycal
+    homebrew/cask/istat-menus
+    homebrew/cask/notion
+    homebrew/cask/steam
+    homebrew/cask/tor-browser
 )
 
 echo "installing cask apps..."
@@ -81,6 +88,8 @@ mas install 585829637
 mas install 1284863847
 # WhatsApp
 mas install 1147396723
+#FinalCutPro
+mas install 424389933
 
 ##############################################
 ## Install other tools apps, plugins etc
