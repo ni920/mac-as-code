@@ -1,3 +1,5 @@
+![version](https://img.shields.io/badge/version-1.0.0-blue)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 # mac-as-code
 
 Mac-As-Code (MAC) is a script that can save your ass when things turn out differently than they should.
