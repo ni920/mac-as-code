@@ -2,7 +2,7 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 # mac-as-code
 
-Mac-As-Code (MAC) is a script that can save your ass when things turn out differently than they should.
+Mac-As-Code (MAC) is a script that can save your a** when things turn out differently than they should.
 
 I will give you a small example from my life: 
 
